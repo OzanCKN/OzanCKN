@@ -4,7 +4,7 @@
 
 <div align="center">
   <p><em>"An intelligent machine that blends what you say with what you cannot say and turns it into software."</em></p>
-  <p>💻 Software Developer | .NET & AI Enthusiast | Istanbul 🇹🇷</p>
+  <p>💻 Software Developer | .NET & AI Architecture | Istanbul 🇹🇷</p>
 </div>
 
 <div align="center">
@@ -19,7 +19,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- İkonları kendinize göre değiştirebilirsiniz. Tam liste: https://skillicons.dev/ -->
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,unity,docker,git,github,vscode,visualstudio&perline=6" alt="Tech Stack" />
   </a>
 </div>
@@ -28,9 +27,12 @@
 
 ## 🚀 Öne Çıkan Projelerim
 
-- **[CKN.SDK](https://github.com/OzanCKN/CKN.SDK):** Projelerimde kullandığım temel altyapı ve geliştirme kiti.
-- **[Enki.Nexus](https://github.com/OzanCKN/Enki.Nexus):** Sesli etkileşim (VAD, STT, TTS, LLM) ve RPA mimarisi sunan yapay zeka tabanlı akıllı asistan projesi.
-- **STM32F4X & Unity3D:** STM324X geliştirme kiti ve Unity kullanarak 3D animasyon entegrasyonu.
+Özellikle akıllı sistemler, otomasyon (RPA) ve kurumsal mimariler üzerine odaklanıyorum:
+
+- **[Eternity.Nexus](https://github.com/OzanCKN/Eternity.Nexus):** Yapay zeka ve süreç otomasyonunu birleştiren gelişmiş Nexus ekosisteminin çekirdek mimarisi.
+- **[Enki-Agent](https://github.com/OzanCKN/Enki-Agent):** Otonom kararlar alabilen, görevleri yerine getiren yapay zeka asistanı ve ajanı projesi (VAD, STT, TTS, LLM entegrasyonlu).
+- **[EnterpriseNexus](https://github.com/OzanCKN/EnterpriseNexus):** Nexus mimarisinin kurumsal ölçekli iş akışlarına ve büyük çaplı sistemlere entegrasyonu için geliştirilmiş kurumsal (enterprise) çözüm.
+- **[CKN.SDK](https://github.com/OzanCKN/CKN.SDK):** Tüm bu projelerin temelini oluşturan, standart altyapı ve geliştirme (SDK) kitim.
 
 <br />
 
