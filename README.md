@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Merhaba,%20Ben%20Ozan!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Architecting%20Intelligent%20Systems&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
 
 <div align="center">
